@@ -44,3 +44,18 @@ Pei chart showing the ratio of people in each cluster group:
 |Taipei Main Station as Origin|Taipei Main Station as Destination|
 | :-------------: |:-------------:|
 | ![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/Pie_from.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/Pie_to.png)|
+
+
+Present the result on the map by cluster groups:
+
+- Taipei Main Station as origin:
+
+|Cluster A|Cluster B|Cluster C|
+| :-------------: |:-------------:| :-----:|
+| ![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/BL12_o_0.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/BL12_o_1.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/BL12_o_2.png)|
+
+- Taipei Main Station as destination:
+
+|Cluster A|Cluster B|Cluster C|
+| :-------------: |:-------------:| :-----:|
+| ![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/BL12_d_0.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/BL12_d_1.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/BL12_d_2.png)|
