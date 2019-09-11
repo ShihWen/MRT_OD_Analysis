@@ -34,17 +34,13 @@ Heatmap by cluster:
 | :-------------: |:-------------:| :-----:|
 | ![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/Demo_BL12_to_A.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/Demo_BL12_to_B.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/Demo_BL12_to_C.png)|
 
-</br>
 Bar graph showing the top 20 based on daily average people:
-</br>
 
 |Taipei Main Station as Origin|Taipei Main Station as Destination|
 | :-------------: |:-------------:|
 | ![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/Bar_from.png)|![](https://github.com/ShihWen/MRT_OD_Analysis/blob/master/BL12_od_result/Bar_to.png)|
 
-</br>
 Pei chart showing the ratio of people in each cluster group:
-</br>
 
 |Taipei Main Station as Origin|Taipei Main Station as Destination|
 | :-------------: |:-------------:|
